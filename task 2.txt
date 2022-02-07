@@ -1,0 +1,21 @@
+<html>
+    <head>
+    <title>
+    my site
+</title>
+<head>
+<body>
+<h1> hello </h1>
+ 
+form action="control?result.php" method="post">
+    username  <input type="text" name="uname">
+    password <input type="password" name="password">
+    
+    select a radio:
+    <input type="radio" name="r1" value="radio1"> radio 1
+    <input type="radio" name="r2" value="radio2"> radio 2
+     < input type = "submit" name = "submit" >
+   
+       </form>
+    </body>
+    </html>
